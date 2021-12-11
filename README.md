@@ -7,8 +7,8 @@ It has two input parameters: the original image in RGB and the desired mask to b
 * NVIDIA CUDA 
 
 # Sample input and output
-![marked area to be removed](C:\Users\Meshkat\problem_2)
-![marked area after inpainting](C:\Users\Meshkat\problem_2_out_5)
+![marked area to be removed](https://github.com/NazminJuli/Criminisi-Inpainting/blob/155bb02433761202e4aca90db8e85c48ebcc418b/problem_2.png)
+![marked area after inpainting](https://github.com/NazminJuli/Criminisi-Inpainting/blob/155bb02433761202e4aca90db8e85c48ebcc418b/problem_2_out_5.jpg)
 
 
 # References
